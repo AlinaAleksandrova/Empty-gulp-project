@@ -1,0 +1,14 @@
+npm install gulp-cli -g
+gulp -v
+npm install gulp -D
+npx -p touch nodetouch gulpfile.js
+npm install sass gulp-sass --save-dev
+npm install pug gulp-pug --save-dev
+npm install browser-sync --save-dev
+
+https://zaurmag.ru/html5-css3/html-preprotsessor-pug-jade.html
+https://webkyrs.info/page/ustanovka-gulp
+https://ru.hexlet.io/courses/gulp/lessons/package/theory_unit
+https://sass-lang.com/documentation/at-rules/use/#private-members
+https://blogboard.io/blog/knowledge/git-ignore-node-modules/
+
